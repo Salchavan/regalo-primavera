@@ -17,3 +17,13 @@ La página web es completamente responsiva y se adapta a cualquier dispositivo. 
 - **Nilver TI**
 
 ## Solo lo modifique para hacer un regalo no es mio el trabajo
+
+## Publicación en GitHub Pages
+
+Este repositorio ya quedó configurado para desplegarse automáticamente en GitHub Pages con GitHub Actions al hacer push a `main`.
+
+Pasos para activarlo en GitHub:
+
+1. Ir a **Settings > Pages**.
+2. En **Source**, seleccionar **GitHub Actions**.
+3. Esperar a que termine el workflow **Deploy GitHub Pages**.
